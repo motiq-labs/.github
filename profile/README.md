@@ -17,7 +17,7 @@ ROS / ROS2, computer vision, mechatronics and robotic integration.
 
 Private AI assistants, operator copilots and reasoning grounded in system capabilities.
 
-**Automation -DevOps**
+**Automation - DevOps**
 
 Automation, system integration, edge and cloud infrastructure, CI/CD and observability.
 
