@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/motiq-labs/website/master/assets/brand/motiq-reversed.svg?v=20261015-labs">
-  <img src="https://raw.githubusercontent.com/motiq-labs/website/master/assets/brand/motiq-horizontal.svg?v=20261015-labs" alt="Motiq Labs" width="300">
-</picture>
-
 ## Robotics. AI. Automation.
 
 A small engineering team in Zagreb working across robotics, AI, industrial automation and cloud infrastructure. We connect software to the systems, machines and processes it needs to work with.
